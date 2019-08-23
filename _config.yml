@@ -1,8 +1,8 @@
 title: Parker's Blog
 description: My Personal Blog
 author: Parker
-logo: /static/img/avatar.jpg
-github: https://github.com/codeasashu
+logo: /myBlog/static/img/avatar.jpg
+github: https://github.com/ParkerTzh
 about: Freelance developer
 
 baseurl: "https://parkertzh.github.io/myBlog/"  # Github 线上
