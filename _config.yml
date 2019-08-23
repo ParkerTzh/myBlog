@@ -1,11 +1,12 @@
 title: Parker's Blog
 description: My Personal Blog
 author: Parker
-logo: /hcz-jekyll-blog/static/img/avatar.png
+logo: /static/img/avatar.jpg
 github: https://github.com/codeasashu
 about: Freelance developer
 
-baseurl: "https://parkertzh.github.io/myBlog/"
+baseurl: "https://parkertzh.github.io/myBlog/"  # Github 线上
+#baseurl: ""
 url: ""
 
 allowsearch: true
