@@ -1,11 +1,13 @@
 title: Parker's Blog
 description: My Personal Blog
 author: Parker
-logo: /myBlog/static/img/avatar.jpg
+logo: /static/img/avatar.jpg
 github: https://github.com/ParkerTzh
 about: Freelance developer
 
-baseurl: "https://parkertzh.github.io/myBlog/"  # Github 线上
+#baseurl: "https://parkertzh.github.io/myBlog/"  # Github 线上
+baseurl: "http://www.sucblog.com"  # 绑定域名 sucblog.com
+#baseurl: "/myBlog"
 #baseurl: ""
 url: ""
 
