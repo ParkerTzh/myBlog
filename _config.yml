@@ -6,7 +6,7 @@ github: https://github.com/ParkerTzh
 about: Freelance developer
 
 #baseurl: "https://parkertzh.github.io/myBlog/"  # Github 线上
-baseurl: "http://www.sucblog.com"  # 绑定域名 sucblog.com
+baseurl: "https://www.sucblog.com"  # 绑定域名 sucblog.com
 #baseurl: "/myBlog"
 #baseurl: ""
 url: ""
