@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<p>姓名：Parker</p>
+<p>年龄：22</p>
+<p>职业：一枚热爱后端的前端程序猿</p>
+<p>爱好：打球、骑行、钓鱼，嗯....还有枸杞泡茶。</p>
+<p>简历：<a href="https://www.wondercv.com/cvs/YUzaLDI/share">点击查看</a></p>
 
-You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[my-resume]: localhost:4000
