@@ -9,7 +9,7 @@
 	{
 		"name": "PCBOnline",
 		"image": "placeholder.jpg",
-		"url": "pcbonline.om",
+		"url": "https://www.pcbonline.com",
 		"date": "May 2018",
 		"tags": ["SpringBoot","Vue"]
 	},

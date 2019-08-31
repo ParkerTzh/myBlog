@@ -2,6 +2,7 @@
 layout: post
 title:  "Jekyll+GitHub Pages搭建个人博客"
 date:   2019-08-22 18:23:39
+cover: "/assets/jekyll/jekyll-logo.png"
 categories: jekyll
 ---
 <h3>环境支持：Ruby(Mac自带Ruby环境，目前Jekyll支持Ruby的版本是2.2.0之后的，否则在后续的安装会报版本不兼容之类的错误)</h3>

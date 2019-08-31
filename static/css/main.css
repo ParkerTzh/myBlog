@@ -1,6 +1,7 @@
 .main.outer{padding-top: 50px;}
 .header-panel.shadow-z-2 {
     background-color: #009587;
+    /*background-image: url("/assets/topbac.jpg");*/
     padding: 50px 0 15px 0;
     width: 100%;
 }
@@ -219,4 +220,10 @@ footer {
     color: #BBB;
     position: absolute;
     right: 12px;
+}
+.PageNavigation {
+    padding: 30px 0 43px 0;
+}
+.list-group .list-group-item .row-action-primary img, .list-group .list-group-item .row-picture img{
+    background-color: unset;
 }
