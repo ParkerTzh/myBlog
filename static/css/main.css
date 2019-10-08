@@ -226,4 +226,5 @@ footer {
 }
 .list-group .list-group-item .row-action-primary img, .list-group .list-group-item .row-picture img{
     background-color: unset;
+    object-fit: contain;
 }
